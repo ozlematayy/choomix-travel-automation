@@ -84,4 +84,5 @@
 >### **Not:**
 >*Henüz öğrenme aşamasında olduğum için projemiz temiz bir koda sahip değil bu yüzden ilerleyen zamanlarda tekrar düzenlecektir...* <br>
 *Proje hakkında önerilere açığız*<br>
+
 **Yıldızlarsanız çok sevinirim...**
