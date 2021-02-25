@@ -82,7 +82,7 @@
 *Projeyi 7 kişilik bir grupla yaptık.Grup arkadaşlarımdan birisi de [Gülsüm Yıldırım](https://github.com/GulsYildirim)'dır.* <br>
 
 >### **Not:**
->*Henüz öğrenme aşamasında olduğum için projemiz temiz bir koda sahip değil bu yüzden ilerleyen zamanlarda tekrar düzenlecektir...* <br>
+>*Henüz öğrenme aşamasında olduğum için projemiz temiz bir koda sahip değil. Bu yüzden ilerleyen zamanlarda tekrar düzenlecektir...* <br>
 *Proje hakkında önerilere açığız.*<br>
 
 **Yıldızlarsanız çok sevinirim...**
