@@ -1,0 +1,765 @@
+C:\Users\lenovo\Desktop\cokay\2.Sinif\Nesneye Dayali Progrmalama\Ders Proje\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.exe.config
+C:\Users\lenovo\Desktop\cokay\2.Sinif\Nesneye Dayali Progrmalama\Ders Proje\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.exe
+C:\Users\lenovo\Desktop\cokay\2.Sinif\Nesneye Dayali Progrmalama\Ders Proje\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.pdb
+C:\Users\lenovo\Desktop\cokay\2.Sinif\Nesneye Dayali Progrmalama\Ders Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\cokay\2.Sinif\Nesneye Dayali Progrmalama\Ders Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Form1.resources
+C:\Users\lenovo\Desktop\cokay\2.Sinif\Nesneye Dayali Progrmalama\Ders Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Properties.Resources.resources
+C:\Users\lenovo\Desktop\cokay\2.Sinif\Nesneye Dayali Progrmalama\Ders Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\cokay\2.Sinif\Nesneye Dayali Progrmalama\Ders Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\cokay\2.Sinif\Nesneye Dayali Progrmalama\Ders Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.exe
+C:\Users\lenovo\Desktop\cokay\2.Sinif\Nesneye Dayali Progrmalama\Ders Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.pdb
+C:\Users\lenovo\Desktop\cokay\2.Sinif\Nesneye Dayali Progrmalama\Ders Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Form2.resources
+C:\Users\casper\Desktop\Proje\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.exe.config
+C:\Users\casper\Desktop\Proje\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.exe
+C:\Users\casper\Desktop\Proje\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.pdb
+C:\Users\casper\Desktop\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csprojAssemblyReference.cache
+C:\Users\casper\Desktop\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Rezervasyon.resources
+C:\Users\casper\Desktop\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Form1.resources
+C:\Users\casper\Desktop\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Form2.resources
+C:\Users\casper\Desktop\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Otel.resources
+C:\Users\casper\Desktop\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Properties.Resources.resources
+C:\Users\casper\Desktop\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csproj.GenerateResource.cache
+C:\Users\casper\Desktop\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csproj.CoreCompileInputs.cache
+C:\Users\casper\Desktop\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.exe
+C:\Users\casper\Desktop\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.pdb
+C:\Users\lenovo\Desktop\cokay\2.Sinif\Nesneye Dayali Progrmalama\Ders Proje\Son Hal\SonHal\Proje\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.exe.config
+C:\Users\lenovo\Desktop\cokay\2.Sinif\Nesneye Dayali Progrmalama\Ders Proje\Son Hal\SonHal\Proje\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.exe
+C:\Users\lenovo\Desktop\cokay\2.Sinif\Nesneye Dayali Progrmalama\Ders Proje\Son Hal\SonHal\Proje\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.pdb
+C:\Users\lenovo\Desktop\cokay\2.Sinif\Nesneye Dayali Progrmalama\Ders Proje\Son Hal\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\cokay\2.Sinif\Nesneye Dayali Progrmalama\Ders Proje\Son Hal\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Rezervasyon.resources
+C:\Users\lenovo\Desktop\cokay\2.Sinif\Nesneye Dayali Progrmalama\Ders Proje\Son Hal\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Form1.resources
+C:\Users\lenovo\Desktop\cokay\2.Sinif\Nesneye Dayali Progrmalama\Ders Proje\Son Hal\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Form2.resources
+C:\Users\lenovo\Desktop\cokay\2.Sinif\Nesneye Dayali Progrmalama\Ders Proje\Son Hal\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Otel.resources
+C:\Users\lenovo\Desktop\cokay\2.Sinif\Nesneye Dayali Progrmalama\Ders Proje\Son Hal\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Properties.Resources.resources
+C:\Users\lenovo\Desktop\cokay\2.Sinif\Nesneye Dayali Progrmalama\Ders Proje\Son Hal\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\cokay\2.Sinif\Nesneye Dayali Progrmalama\Ders Proje\Son Hal\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\cokay\2.Sinif\Nesneye Dayali Progrmalama\Ders Proje\Son Hal\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.exe
+C:\Users\lenovo\Desktop\cokay\2.Sinif\Nesneye Dayali Progrmalama\Ders Proje\Son Hal\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.pdb
+C:\Users\lenovo\Desktop\Son Hal\SonHal\Proje\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.exe.config
+C:\Users\lenovo\Desktop\Son Hal\SonHal\Proje\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.exe
+C:\Users\lenovo\Desktop\Son Hal\SonHal\Proje\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.pdb
+C:\Users\lenovo\Desktop\Son Hal\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\Son Hal\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Rezervasyon.resources
+C:\Users\lenovo\Desktop\Son Hal\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Form1.resources
+C:\Users\lenovo\Desktop\Son Hal\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Form2.resources
+C:\Users\lenovo\Desktop\Son Hal\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Otel.resources
+C:\Users\lenovo\Desktop\Son Hal\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Properties.Resources.resources
+C:\Users\lenovo\Desktop\Son Hal\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\Son Hal\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Son Hal\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.exe
+C:\Users\lenovo\Desktop\Son Hal\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.pdb
+C:\Users\casper\Desktop\Nesne\Son Hal\SonHal\Proje\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.exe.config
+C:\Users\casper\Desktop\Nesne\Son Hal\SonHal\Proje\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.exe
+C:\Users\casper\Desktop\Nesne\Son Hal\SonHal\Proje\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.pdb
+C:\Users\casper\Desktop\Nesne\Son Hal\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csprojAssemblyReference.cache
+C:\Users\casper\Desktop\Nesne\Son Hal\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Rezervasyon.resources
+C:\Users\casper\Desktop\Nesne\Son Hal\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Form1.resources
+C:\Users\casper\Desktop\Nesne\Son Hal\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Form2.resources
+C:\Users\casper\Desktop\Nesne\Son Hal\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Otel.resources
+C:\Users\casper\Desktop\Nesne\Son Hal\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Properties.Resources.resources
+C:\Users\casper\Desktop\Nesne\Son Hal\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csproj.GenerateResource.cache
+C:\Users\casper\Desktop\Nesne\Son Hal\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csproj.CoreCompileInputs.cache
+C:\Users\casper\Desktop\Nesne\Son Hal\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.exe
+C:\Users\casper\Desktop\Nesne\Son Hal\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.pdb
+C:\Users\lenovo\Desktop\EnSon-20201215T182122Z-001\EnSon\Son Hal\SonHal\Proje\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.exe.config
+C:\Users\lenovo\Desktop\EnSon-20201215T182122Z-001\EnSon\Son Hal\SonHal\Proje\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.exe
+C:\Users\lenovo\Desktop\EnSon-20201215T182122Z-001\EnSon\Son Hal\SonHal\Proje\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.pdb
+C:\Users\lenovo\Desktop\EnSon-20201215T182122Z-001\EnSon\Son Hal\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\EnSon-20201215T182122Z-001\EnSon\Son Hal\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Rezervasyon.resources
+C:\Users\lenovo\Desktop\EnSon-20201215T182122Z-001\EnSon\Son Hal\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Form1.resources
+C:\Users\lenovo\Desktop\EnSon-20201215T182122Z-001\EnSon\Son Hal\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Form2.resources
+C:\Users\lenovo\Desktop\EnSon-20201215T182122Z-001\EnSon\Son Hal\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Otel.resources
+C:\Users\lenovo\Desktop\EnSon-20201215T182122Z-001\EnSon\Son Hal\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Properties.Resources.resources
+C:\Users\lenovo\Desktop\EnSon-20201215T182122Z-001\EnSon\Son Hal\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\EnSon-20201215T182122Z-001\EnSon\Son Hal\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\EnSon-20201215T182122Z-001\EnSon\Son Hal\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.exe
+C:\Users\lenovo\Desktop\EnSon-20201215T182122Z-001\EnSon\Son Hal\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.pdb
+C:\Users\Nergis\Desktop\Son Hal\SonHal\Proje\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.exe.config
+C:\Users\Nergis\Desktop\Son Hal\SonHal\Proje\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.exe
+C:\Users\Nergis\Desktop\Son Hal\SonHal\Proje\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.pdb
+C:\Users\Nergis\Desktop\Son Hal\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csprojAssemblyReference.cache
+C:\Users\Nergis\Desktop\Son Hal\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Form3.resources
+C:\Users\Nergis\Desktop\Son Hal\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Rezervasyon.resources
+C:\Users\Nergis\Desktop\Son Hal\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Form1.resources
+C:\Users\Nergis\Desktop\Son Hal\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Form2.resources
+C:\Users\Nergis\Desktop\Son Hal\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Otel.resources
+C:\Users\Nergis\Desktop\Son Hal\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Properties.Resources.resources
+C:\Users\Nergis\Desktop\Son Hal\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csproj.GenerateResource.cache
+C:\Users\Nergis\Desktop\Son Hal\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csproj.CoreCompileInputs.cache
+C:\Users\Nergis\Desktop\Son Hal\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.exe
+C:\Users\Nergis\Desktop\Son Hal\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.pdb
+C:\Users\Nergis\Desktop\Son HalSON\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csprojAssemblyReference.cache
+C:\Users\Nergis\Desktop\Son HalSON\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Form3.resources
+C:\Users\Nergis\Desktop\Son HalSON\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Rezervasyon.resources
+C:\Users\Nergis\Desktop\Son HalSON\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Form1.resources
+C:\Users\Nergis\Desktop\Son HalSON\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Form2.resources
+C:\Users\Nergis\Desktop\Son HalSON\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Otel.resources
+C:\Users\Nergis\Desktop\Son HalSON\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Properties.Resources.resources
+C:\Users\Nergis\Desktop\Son HalSON\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csproj.GenerateResource.cache
+C:\Users\Nergis\Desktop\Son HalSON\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csproj.CoreCompileInputs.cache
+C:\Users\Nergis\Desktop\Son HalSON\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.exe
+C:\Users\Nergis\Desktop\Son HalSON\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.pdb
+C:\Users\Nergis\Desktop\Son HalSON\SonHal\Proje\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.exe.config
+C:\Users\Nergis\Desktop\Son HalSON\SonHal\Proje\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.exe
+C:\Users\Nergis\Desktop\Son HalSON\SonHal\Proje\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.pdb
+C:\Users\lenovo\Desktop\PROJE-20201218T072939Z-001\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.exe.config
+C:\Users\lenovo\Desktop\PROJE-20201218T072939Z-001\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.exe
+C:\Users\lenovo\Desktop\PROJE-20201218T072939Z-001\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.pdb
+C:\Users\lenovo\Desktop\PROJE-20201218T072939Z-001\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\PROJE-20201218T072939Z-001\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Otel.resources
+C:\Users\lenovo\Desktop\PROJE-20201218T072939Z-001\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Properties.Resources.resources
+C:\Users\lenovo\Desktop\PROJE-20201218T072939Z-001\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\PROJE-20201218T072939Z-001\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\PROJE-20201218T072939Z-001\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.exe
+C:\Users\lenovo\Desktop\PROJE-20201218T072939Z-001\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.pdb
+C:\Users\lenovo\Desktop\PROJE-20201218T072939Z-001\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Muze.resources
+C:\Users\lenovo\Desktop\PROJE-20201218T072939Z-001\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Tur.resources
+C:\Users\lenovo\Desktop\PROJE-20201218T072939Z-001\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Odeme.resources
+C:\Users\lenovo\Desktop\PROJE-20201218T072939Z-001\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Katalog.resources
+C:\Users\casper\Desktop\Yorumlu-Yorumsuz\PROJE-Yorumlu\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.exe.config
+C:\Users\casper\Desktop\Yorumlu-Yorumsuz\PROJE-Yorumlu\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.exe
+C:\Users\casper\Desktop\Yorumlu-Yorumsuz\PROJE-Yorumlu\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.pdb
+C:\Users\casper\Desktop\Yorumlu-Yorumsuz\PROJE-Yorumlu\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csprojAssemblyReference.cache
+C:\Users\casper\Desktop\Yorumlu-Yorumsuz\PROJE-Yorumlu\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Tur.resources
+C:\Users\casper\Desktop\Yorumlu-Yorumsuz\PROJE-Yorumlu\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Odeme.resources
+C:\Users\casper\Desktop\Yorumlu-Yorumsuz\PROJE-Yorumlu\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Muze.resources
+C:\Users\casper\Desktop\Yorumlu-Yorumsuz\PROJE-Yorumlu\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Katalog.resources
+C:\Users\casper\Desktop\Yorumlu-Yorumsuz\PROJE-Yorumlu\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Otel.resources
+C:\Users\casper\Desktop\Yorumlu-Yorumsuz\PROJE-Yorumlu\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Properties.Resources.resources
+C:\Users\casper\Desktop\Yorumlu-Yorumsuz\PROJE-Yorumlu\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csproj.GenerateResource.cache
+C:\Users\casper\Desktop\Yorumlu-Yorumsuz\PROJE-Yorumlu\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csproj.CoreCompileInputs.cache
+C:\Users\casper\Desktop\Yorumlu-Yorumsuz\PROJE-Yorumlu\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.exe
+C:\Users\casper\Desktop\Yorumlu-Yorumsuz\PROJE-Yorumlu\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.pdb
+C:\Users\casper\Desktop\PROJE-Yorumlu\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.exe.config
+C:\Users\casper\Desktop\PROJE-Yorumlu\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.exe
+C:\Users\casper\Desktop\PROJE-Yorumlu\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.pdb
+C:\Users\casper\Desktop\PROJE-Yorumlu\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csprojAssemblyReference.cache
+C:\Users\casper\Desktop\PROJE-Yorumlu\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Tur.resources
+C:\Users\casper\Desktop\PROJE-Yorumlu\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Odeme.resources
+C:\Users\casper\Desktop\PROJE-Yorumlu\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Muze.resources
+C:\Users\casper\Desktop\PROJE-Yorumlu\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Katalog.resources
+C:\Users\casper\Desktop\PROJE-Yorumlu\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Otel.resources
+C:\Users\casper\Desktop\PROJE-Yorumlu\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Properties.Resources.resources
+C:\Users\casper\Desktop\PROJE-Yorumlu\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csproj.GenerateResource.cache
+C:\Users\casper\Desktop\PROJE-Yorumlu\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csproj.CoreCompileInputs.cache
+C:\Users\casper\Desktop\PROJE-Yorumlu\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.exe
+C:\Users\casper\Desktop\PROJE-Yorumlu\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.pdb
+C:\Users\casper\Desktop\Yorumlu-Yorumsuz3\PROJE-Yorumlu\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.exe.config
+C:\Users\casper\Desktop\Yorumlu-Yorumsuz3\PROJE-Yorumlu\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.exe
+C:\Users\casper\Desktop\Yorumlu-Yorumsuz3\PROJE-Yorumlu\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.pdb
+C:\Users\casper\Desktop\Yorumlu-Yorumsuz3\PROJE-Yorumlu\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csprojAssemblyReference.cache
+C:\Users\casper\Desktop\Yorumlu-Yorumsuz3\PROJE-Yorumlu\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Tur.resources
+C:\Users\casper\Desktop\Yorumlu-Yorumsuz3\PROJE-Yorumlu\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Odeme.resources
+C:\Users\casper\Desktop\Yorumlu-Yorumsuz3\PROJE-Yorumlu\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Muze.resources
+C:\Users\casper\Desktop\Yorumlu-Yorumsuz3\PROJE-Yorumlu\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Katalog.resources
+C:\Users\casper\Desktop\Yorumlu-Yorumsuz3\PROJE-Yorumlu\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Otel.resources
+C:\Users\casper\Desktop\Yorumlu-Yorumsuz3\PROJE-Yorumlu\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Properties.Resources.resources
+C:\Users\casper\Desktop\Yorumlu-Yorumsuz3\PROJE-Yorumlu\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csproj.GenerateResource.cache
+C:\Users\casper\Desktop\Yorumlu-Yorumsuz3\PROJE-Yorumlu\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csproj.CoreCompileInputs.cache
+C:\Users\casper\Desktop\Yorumlu-Yorumsuz3\PROJE-Yorumlu\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.exe
+C:\Users\casper\Desktop\Yorumlu-Yorumsuz3\PROJE-Yorumlu\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.pdb
+C:\Users\LENOVO\Desktop\PROJE-Yorumlu\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.exe.config
+C:\Users\LENOVO\Desktop\PROJE-Yorumlu\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.exe
+C:\Users\LENOVO\Desktop\PROJE-Yorumlu\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.pdb
+C:\Users\LENOVO\Desktop\PROJE-Yorumlu\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\PROJE-Yorumlu\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.kayitsayfasi.resources
+C:\Users\LENOVO\Desktop\PROJE-Yorumlu\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Tur.resources
+C:\Users\LENOVO\Desktop\PROJE-Yorumlu\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Odeme.resources
+C:\Users\LENOVO\Desktop\PROJE-Yorumlu\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Muze.resources
+C:\Users\LENOVO\Desktop\PROJE-Yorumlu\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Katalog.resources
+C:\Users\LENOVO\Desktop\PROJE-Yorumlu\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Otel.resources
+C:\Users\LENOVO\Desktop\PROJE-Yorumlu\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\PROJE-Yorumlu\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\PROJE-Yorumlu\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\PROJE-Yorumlu\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.exe
+C:\Users\LENOVO\Desktop\PROJE-Yorumlu\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.pdb
+C:\Users\LENOVO\Desktop\PROJE-Yorumlu\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\bin\Debug\kayitveritabani.mdb
+C:\Users\LENOVO\Desktop\PROJE-Yorumlu\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\bin\Debug\Database5.mdb
+C:\Users\LENOVO\Desktop\PROJEYorumlu\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\bin\Debug\Database5.mdb
+C:\Users\LENOVO\Desktop\PROJEYorumlu\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\bin\Debug\kayitveritabani.mdb
+C:\Users\LENOVO\Desktop\PROJEYorumlu\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.exe.config
+C:\Users\LENOVO\Desktop\PROJEYorumlu\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.exe
+C:\Users\LENOVO\Desktop\PROJEYorumlu\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.pdb
+C:\Users\LENOVO\Desktop\PROJEYorumlu\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\PROJEYorumlu\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.kayitsayfasi.resources
+C:\Users\LENOVO\Desktop\PROJEYorumlu\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Tur.resources
+C:\Users\LENOVO\Desktop\PROJEYorumlu\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Odeme.resources
+C:\Users\LENOVO\Desktop\PROJEYorumlu\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Muze.resources
+C:\Users\LENOVO\Desktop\PROJEYorumlu\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Katalog.resources
+C:\Users\LENOVO\Desktop\PROJEYorumlu\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Otel.resources
+C:\Users\LENOVO\Desktop\PROJEYorumlu\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\PROJEYorumlu\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\PROJEYorumlu\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\PROJEYorumlu\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.exe
+C:\Users\LENOVO\Desktop\PROJEYorumlu\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.pdb
+C:\Users\User\Desktop\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\bin\Debug\Database5.mdb
+C:\Users\User\Desktop\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\bin\Debug\kayitveritabani.mdb
+C:\Users\User\Desktop\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.exe.config
+C:\Users\User\Desktop\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.exe
+C:\Users\User\Desktop\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.pdb
+C:\Users\User\Desktop\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csprojAssemblyReference.cache
+C:\Users\User\Desktop\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.kayitsayfasi.resources
+C:\Users\User\Desktop\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Tur.resources
+C:\Users\User\Desktop\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Odeme.resources
+C:\Users\User\Desktop\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Muze.resources
+C:\Users\User\Desktop\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Katalog.resources
+C:\Users\User\Desktop\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Otel.resources
+C:\Users\User\Desktop\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Properties.Resources.resources
+C:\Users\User\Desktop\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csproj.GenerateResource.cache
+C:\Users\User\Desktop\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.exe
+C:\Users\User\Desktop\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.pdb
+C:\Users\User\Desktop\PROJENergis2\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.restoran.resources
+C:\Users\semiha\Desktop\18aralık en son-20201221T192158Z-001\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csprojAssemblyReference.cache
+C:\Users\semiha\Desktop\18aralık en son-20201221T192158Z-001\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.exe
+C:\Users\semiha\Desktop\18aralık en son-20201221T192158Z-001\18aralık en son\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.pdb
+C:\Users\User\Desktop\SonHal\Proje\4.Sayfa\4.Sayfa\bin\Debug\Database5.mdb
+C:\Users\User\Desktop\SonHal\Proje\4.Sayfa\4.Sayfa\bin\Debug\kayitveritabani.mdb
+C:\Users\User\Desktop\SonHal\Proje\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.exe.config
+C:\Users\User\Desktop\SonHal\Proje\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.exe
+C:\Users\User\Desktop\SonHal\Proje\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.pdb
+C:\Users\User\Desktop\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.ULASIM.resources
+C:\Users\User\Desktop\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.kayitsayfasi.resources
+C:\Users\User\Desktop\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Restoran.resources
+C:\Users\User\Desktop\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Tur.resources
+C:\Users\User\Desktop\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Odeme.resources
+C:\Users\User\Desktop\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Muze.resources
+C:\Users\User\Desktop\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Katalog.resources
+C:\Users\User\Desktop\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Otel.resources
+C:\Users\User\Desktop\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Properties.Resources.resources
+C:\Users\User\Desktop\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csproj.GenerateResource.cache
+C:\Users\User\Desktop\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.exe
+C:\Users\User\Desktop\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.pdb
+C:\Users\User\Desktop\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.dünya.resources
+C:\Users\User\Desktop\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.anasayfa.resources
+C:\Users\User\Desktop\SonHal\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.türkiye.resources
+C:\Users\User\Desktop\yorumlu son hali\Proje\4.Sayfa\4.Sayfa\bin\Debug\Database5.mdb
+C:\Users\User\Desktop\yorumlu son hali\Proje\4.Sayfa\4.Sayfa\bin\Debug\kayitveritabani.mdb
+C:\Users\User\Desktop\yorumlu son hali\Proje\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.exe.config
+C:\Users\User\Desktop\yorumlu son hali\Proje\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.exe
+C:\Users\User\Desktop\yorumlu son hali\Proje\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.pdb
+C:\Users\User\Desktop\yorumlu son hali\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csprojAssemblyReference.cache
+C:\Users\User\Desktop\yorumlu son hali\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.dünya.resources
+C:\Users\User\Desktop\yorumlu son hali\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.anasayfa.resources
+C:\Users\User\Desktop\yorumlu son hali\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.türkiye.resources
+C:\Users\User\Desktop\yorumlu son hali\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.ULASIM.resources
+C:\Users\User\Desktop\yorumlu son hali\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.kayitsayfasi.resources
+C:\Users\User\Desktop\yorumlu son hali\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Restoran.resources
+C:\Users\User\Desktop\yorumlu son hali\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Tur.resources
+C:\Users\User\Desktop\yorumlu son hali\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Odeme.resources
+C:\Users\User\Desktop\yorumlu son hali\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Muze.resources
+C:\Users\User\Desktop\yorumlu son hali\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Katalog.resources
+C:\Users\User\Desktop\yorumlu son hali\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Otel.resources
+C:\Users\User\Desktop\yorumlu son hali\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Properties.Resources.resources
+C:\Users\User\Desktop\yorumlu son hali\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csproj.GenerateResource.cache
+C:\Users\User\Desktop\yorumlu son hali\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\yorumlu son hali\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.exe
+C:\Users\User\Desktop\yorumlu son hali\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.pdb
+C:\Users\LENOVO\Desktop\Proje\4.Sayfa\4.Sayfa\bin\Debug\Database5.mdb
+C:\Users\LENOVO\Desktop\Proje\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.exe.config
+C:\Users\LENOVO\Desktop\Proje\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.exe
+C:\Users\LENOVO\Desktop\Proje\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.pdb
+C:\Users\LENOVO\Desktop\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.dünya.resources
+C:\Users\LENOVO\Desktop\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.anasayfa.resources
+C:\Users\LENOVO\Desktop\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.türkiye.resources
+C:\Users\LENOVO\Desktop\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.ULASIM.resources
+C:\Users\LENOVO\Desktop\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.kayitsayfasi.resources
+C:\Users\LENOVO\Desktop\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Restoran.resources
+C:\Users\LENOVO\Desktop\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Tur.resources
+C:\Users\LENOVO\Desktop\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Odeme.resources
+C:\Users\LENOVO\Desktop\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Muze.resources
+C:\Users\LENOVO\Desktop\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Katalog.resources
+C:\Users\LENOVO\Desktop\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Otel.resources
+C:\Users\LENOVO\Desktop\Proje\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.exe
+C:\Users\LENOVO\Desktop\Proje\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.pdb
+C:\Users\LENOVO\Desktop\projeyorumlu\4.Sayfa\4.Sayfa\bin\Debug\Database5.mdb
+C:\Users\LENOVO\Desktop\projeyorumlu\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.exe.config
+C:\Users\LENOVO\Desktop\projeyorumlu\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.exe
+C:\Users\LENOVO\Desktop\projeyorumlu\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.pdb
+C:\Users\LENOVO\Desktop\projeyorumlu\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\projeyorumlu\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.dünya.resources
+C:\Users\LENOVO\Desktop\projeyorumlu\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.anasayfa.resources
+C:\Users\LENOVO\Desktop\projeyorumlu\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.türkiye.resources
+C:\Users\LENOVO\Desktop\projeyorumlu\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.ULASIM.resources
+C:\Users\LENOVO\Desktop\projeyorumlu\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.kayitsayfasi.resources
+C:\Users\LENOVO\Desktop\projeyorumlu\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Restoran.resources
+C:\Users\LENOVO\Desktop\projeyorumlu\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Tur.resources
+C:\Users\LENOVO\Desktop\projeyorumlu\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Odeme.resources
+C:\Users\LENOVO\Desktop\projeyorumlu\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Muze.resources
+C:\Users\LENOVO\Desktop\projeyorumlu\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Katalog.resources
+C:\Users\LENOVO\Desktop\projeyorumlu\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Otel.resources
+C:\Users\LENOVO\Desktop\projeyorumlu\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\projeyorumlu\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\projeyorumlu\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\projeyorumlu\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.exe
+C:\Users\LENOVO\Desktop\projeyorumlu\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.pdb
+C:\Users\LENOVO\Desktop\yorumlu son hali22aralık23.23\4.Sayfa\4.Sayfa\bin\Debug\Database5.mdb
+C:\Users\LENOVO\Desktop\yorumlu son hali22aralık23.23\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.exe.config
+C:\Users\LENOVO\Desktop\yorumlu son hali22aralık23.23\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.exe
+C:\Users\LENOVO\Desktop\yorumlu son hali22aralık23.23\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.pdb
+C:\Users\LENOVO\Desktop\yorumlu son hali22aralık23.23\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\yorumlu son hali22aralık23.23\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.dünya.resources
+C:\Users\LENOVO\Desktop\yorumlu son hali22aralık23.23\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.anasayfa.resources
+C:\Users\LENOVO\Desktop\yorumlu son hali22aralık23.23\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.türkiye.resources
+C:\Users\LENOVO\Desktop\yorumlu son hali22aralık23.23\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.ULASIM.resources
+C:\Users\LENOVO\Desktop\yorumlu son hali22aralık23.23\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.kayitsayfasi.resources
+C:\Users\LENOVO\Desktop\yorumlu son hali22aralık23.23\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Restoran.resources
+C:\Users\LENOVO\Desktop\yorumlu son hali22aralık23.23\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Tur.resources
+C:\Users\LENOVO\Desktop\yorumlu son hali22aralık23.23\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Odeme.resources
+C:\Users\LENOVO\Desktop\yorumlu son hali22aralık23.23\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Muze.resources
+C:\Users\LENOVO\Desktop\yorumlu son hali22aralık23.23\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Katalog.resources
+C:\Users\LENOVO\Desktop\yorumlu son hali22aralık23.23\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Otel.resources
+C:\Users\LENOVO\Desktop\yorumlu son hali22aralık23.23\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\yorumlu son hali22aralık23.23\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\yorumlu son hali22aralık23.23\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\yorumlu son hali22aralık23.23\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.exe
+C:\Users\LENOVO\Desktop\yorumlu son hali22aralık23.23\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.pdb
+C:\Users\BEGÜM\OneDrive\Masaüstü\yorumlu son hali22aralık23.23\4.Sayfa\4.Sayfa\bin\Debug\Database5.mdb
+C:\Users\BEGÜM\OneDrive\Masaüstü\yorumlu son hali22aralık23.23\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.exe.config
+C:\Users\BEGÜM\OneDrive\Masaüstü\yorumlu son hali22aralık23.23\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.exe
+C:\Users\BEGÜM\OneDrive\Masaüstü\yorumlu son hali22aralık23.23\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.pdb
+C:\Users\BEGÜM\OneDrive\Masaüstü\yorumlu son hali22aralık23.23\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csprojAssemblyReference.cache
+C:\Users\BEGÜM\OneDrive\Masaüstü\yorumlu son hali22aralık23.23\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.dünya.resources
+C:\Users\BEGÜM\OneDrive\Masaüstü\yorumlu son hali22aralık23.23\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.anasayfa.resources
+C:\Users\BEGÜM\OneDrive\Masaüstü\yorumlu son hali22aralık23.23\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.türkiye.resources
+C:\Users\BEGÜM\OneDrive\Masaüstü\yorumlu son hali22aralık23.23\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.ULASIM.resources
+C:\Users\BEGÜM\OneDrive\Masaüstü\yorumlu son hali22aralık23.23\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.kayitsayfasi.resources
+C:\Users\BEGÜM\OneDrive\Masaüstü\yorumlu son hali22aralık23.23\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Restoran.resources
+C:\Users\BEGÜM\OneDrive\Masaüstü\yorumlu son hali22aralık23.23\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Tur.resources
+C:\Users\BEGÜM\OneDrive\Masaüstü\yorumlu son hali22aralık23.23\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Odeme.resources
+C:\Users\BEGÜM\OneDrive\Masaüstü\yorumlu son hali22aralık23.23\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Muze.resources
+C:\Users\BEGÜM\OneDrive\Masaüstü\yorumlu son hali22aralık23.23\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Katalog.resources
+C:\Users\BEGÜM\OneDrive\Masaüstü\yorumlu son hali22aralık23.23\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Otel.resources
+C:\Users\BEGÜM\OneDrive\Masaüstü\yorumlu son hali22aralık23.23\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Properties.Resources.resources
+C:\Users\BEGÜM\OneDrive\Masaüstü\yorumlu son hali22aralık23.23\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csproj.GenerateResource.cache
+C:\Users\BEGÜM\OneDrive\Masaüstü\yorumlu son hali22aralık23.23\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csproj.CoreCompileInputs.cache
+C:\Users\BEGÜM\OneDrive\Masaüstü\yorumlu son hali22aralık23.23\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.exe
+C:\Users\BEGÜM\OneDrive\Masaüstü\yorumlu son hali22aralık23.23\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.pdb
+C:\Users\semiha\Desktop\4.Sayfa-20201223T170021Z-001\4.Sayfa\4.Sayfa\bin\Debug\Database5.mdb
+C:\Users\semiha\Desktop\4.Sayfa-20201223T170021Z-001\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.exe.config
+C:\Users\semiha\Desktop\4.Sayfa-20201223T170021Z-001\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.exe
+C:\Users\semiha\Desktop\4.Sayfa-20201223T170021Z-001\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.pdb
+C:\Users\semiha\Desktop\4.Sayfa-20201223T170021Z-001\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csprojAssemblyReference.cache
+C:\Users\semiha\Desktop\4.Sayfa-20201223T170021Z-001\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.dünya.resources
+C:\Users\semiha\Desktop\4.Sayfa-20201223T170021Z-001\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.anasayfa.resources
+C:\Users\semiha\Desktop\4.Sayfa-20201223T170021Z-001\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.türkiye.resources
+C:\Users\semiha\Desktop\4.Sayfa-20201223T170021Z-001\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.ULASIM.resources
+C:\Users\semiha\Desktop\4.Sayfa-20201223T170021Z-001\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.kayitsayfasi.resources
+C:\Users\semiha\Desktop\4.Sayfa-20201223T170021Z-001\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Restoran.resources
+C:\Users\semiha\Desktop\4.Sayfa-20201223T170021Z-001\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Tur.resources
+C:\Users\semiha\Desktop\4.Sayfa-20201223T170021Z-001\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Odeme.resources
+C:\Users\semiha\Desktop\4.Sayfa-20201223T170021Z-001\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Muze.resources
+C:\Users\semiha\Desktop\4.Sayfa-20201223T170021Z-001\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Katalog.resources
+C:\Users\semiha\Desktop\4.Sayfa-20201223T170021Z-001\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Otel.resources
+C:\Users\semiha\Desktop\4.Sayfa-20201223T170021Z-001\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Properties.Resources.resources
+C:\Users\semiha\Desktop\4.Sayfa-20201223T170021Z-001\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csproj.GenerateResource.cache
+C:\Users\semiha\Desktop\4.Sayfa-20201223T170021Z-001\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csproj.CoreCompileInputs.cache
+C:\Users\semiha\Desktop\4.Sayfa-20201223T170021Z-001\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.exe
+C:\Users\semiha\Desktop\4.Sayfa-20201223T170021Z-001\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.pdb
+C:\Users\User\Desktop\4.Sayfa\4.Sayfa\bin\Debug\Database5.mdb
+C:\Users\User\Desktop\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.exe.config
+C:\Users\User\Desktop\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.exe
+C:\Users\User\Desktop\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.pdb
+C:\Users\User\Desktop\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csprojAssemblyReference.cache
+C:\Users\User\Desktop\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.dünya.resources
+C:\Users\User\Desktop\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.anasayfa.resources
+C:\Users\User\Desktop\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.girisYapin.resources
+C:\Users\User\Desktop\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.türkiye.resources
+C:\Users\User\Desktop\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.ULASIM.resources
+C:\Users\User\Desktop\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.kayitsayfasi.resources
+C:\Users\User\Desktop\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Restoran.resources
+C:\Users\User\Desktop\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Tur.resources
+C:\Users\User\Desktop\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Odeme.resources
+C:\Users\User\Desktop\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Muze.resources
+C:\Users\User\Desktop\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Katalog.resources
+C:\Users\User\Desktop\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Otel.resources
+C:\Users\User\Desktop\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Properties.Resources.resources
+C:\Users\User\Desktop\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csproj.GenerateResource.cache
+C:\Users\User\Desktop\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.exe
+C:\Users\User\Desktop\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.pdb
+C:\Users\User\Desktop\yorumlu gerçekten son hali\olması dileğiyle\4.Sayfa\4.Sayfa\bin\Debug\Database5.mdb
+C:\Users\User\Desktop\yorumlu gerçekten son hali\olması dileğiyle\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.exe.config
+C:\Users\User\Desktop\yorumlu gerçekten son hali\olması dileğiyle\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.exe
+C:\Users\User\Desktop\yorumlu gerçekten son hali\olması dileğiyle\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.pdb
+C:\Users\User\Desktop\yorumlu gerçekten son hali\olması dileğiyle\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csprojAssemblyReference.cache
+C:\Users\User\Desktop\yorumlu gerçekten son hali\olması dileğiyle\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.dünya.resources
+C:\Users\User\Desktop\yorumlu gerçekten son hali\olması dileğiyle\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.anasayfa.resources
+C:\Users\User\Desktop\yorumlu gerçekten son hali\olması dileğiyle\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.girisYapin.resources
+C:\Users\User\Desktop\yorumlu gerçekten son hali\olması dileğiyle\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.türkiye.resources
+C:\Users\User\Desktop\yorumlu gerçekten son hali\olması dileğiyle\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.ULASIM.resources
+C:\Users\User\Desktop\yorumlu gerçekten son hali\olması dileğiyle\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.kayitsayfasi.resources
+C:\Users\User\Desktop\yorumlu gerçekten son hali\olması dileğiyle\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Restoran.resources
+C:\Users\User\Desktop\yorumlu gerçekten son hali\olması dileğiyle\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Tur.resources
+C:\Users\User\Desktop\yorumlu gerçekten son hali\olması dileğiyle\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Odeme.resources
+C:\Users\User\Desktop\yorumlu gerçekten son hali\olması dileğiyle\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Muze.resources
+C:\Users\User\Desktop\yorumlu gerçekten son hali\olması dileğiyle\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Katalog.resources
+C:\Users\User\Desktop\yorumlu gerçekten son hali\olması dileğiyle\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Otel.resources
+C:\Users\User\Desktop\yorumlu gerçekten son hali\olması dileğiyle\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Properties.Resources.resources
+C:\Users\User\Desktop\yorumlu gerçekten son hali\olması dileğiyle\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csproj.GenerateResource.cache
+C:\Users\User\Desktop\yorumlu gerçekten son hali\olması dileğiyle\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\yorumlu gerçekten son hali\olması dileğiyle\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.exe
+C:\Users\User\Desktop\yorumlu gerçekten son hali\olması dileğiyle\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.pdb
+C:\Users\User\Desktop\24 Aralık  13.01 Yorumlu Son Hali\olması dileğiyle\4.Sayfa\4.Sayfa\bin\Debug\Database5.mdb
+C:\Users\User\Desktop\24 Aralık  13.01 Yorumlu Son Hali\olması dileğiyle\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.exe.config
+C:\Users\User\Desktop\24 Aralık  13.01 Yorumlu Son Hali\olması dileğiyle\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.exe
+C:\Users\User\Desktop\24 Aralık  13.01 Yorumlu Son Hali\olması dileğiyle\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.pdb
+C:\Users\User\Desktop\24 Aralık  13.01 Yorumlu Son Hali\olması dileğiyle\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csprojAssemblyReference.cache
+C:\Users\User\Desktop\24 Aralık  13.01 Yorumlu Son Hali\olması dileğiyle\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.dünya.resources
+C:\Users\User\Desktop\24 Aralık  13.01 Yorumlu Son Hali\olması dileğiyle\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.anasayfa.resources
+C:\Users\User\Desktop\24 Aralık  13.01 Yorumlu Son Hali\olması dileğiyle\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.girisYapin.resources
+C:\Users\User\Desktop\24 Aralık  13.01 Yorumlu Son Hali\olması dileğiyle\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.türkiye.resources
+C:\Users\User\Desktop\24 Aralık  13.01 Yorumlu Son Hali\olması dileğiyle\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.ULASIM.resources
+C:\Users\User\Desktop\24 Aralık  13.01 Yorumlu Son Hali\olması dileğiyle\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.kayitsayfasi.resources
+C:\Users\User\Desktop\24 Aralık  13.01 Yorumlu Son Hali\olması dileğiyle\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Restoran.resources
+C:\Users\User\Desktop\24 Aralık  13.01 Yorumlu Son Hali\olması dileğiyle\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Tur.resources
+C:\Users\User\Desktop\24 Aralık  13.01 Yorumlu Son Hali\olması dileğiyle\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Odeme.resources
+C:\Users\User\Desktop\24 Aralık  13.01 Yorumlu Son Hali\olması dileğiyle\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Muze.resources
+C:\Users\User\Desktop\24 Aralık  13.01 Yorumlu Son Hali\olması dileğiyle\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Katalog.resources
+C:\Users\User\Desktop\24 Aralık  13.01 Yorumlu Son Hali\olması dileğiyle\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Otel.resources
+C:\Users\User\Desktop\24 Aralık  13.01 Yorumlu Son Hali\olması dileğiyle\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Properties.Resources.resources
+C:\Users\User\Desktop\24 Aralık  13.01 Yorumlu Son Hali\olması dileğiyle\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csproj.GenerateResource.cache
+C:\Users\User\Desktop\24 Aralık  13.01 Yorumlu Son Hali\olması dileğiyle\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\24 Aralık  13.01 Yorumlu Son Hali\olması dileğiyle\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.exe
+C:\Users\User\Desktop\24 Aralık  13.01 Yorumlu Son Hali\olması dileğiyle\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.pdb
+C:\Users\casper\Desktop\Nesne\24 Aralık\4.Sayfa\4.Sayfa\bin\Debug\Database5.mdb
+C:\Users\casper\Desktop\Nesne\24 Aralık\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.exe.config
+C:\Users\casper\Desktop\Nesne\24 Aralık\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.exe
+C:\Users\casper\Desktop\Nesne\24 Aralık\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.pdb
+C:\Users\casper\Desktop\Nesne\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csprojAssemblyReference.cache
+C:\Users\casper\Desktop\Nesne\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.dünya.resources
+C:\Users\casper\Desktop\Nesne\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.anasayfa.resources
+C:\Users\casper\Desktop\Nesne\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.girisYapin.resources
+C:\Users\casper\Desktop\Nesne\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.türkiye.resources
+C:\Users\casper\Desktop\Nesne\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.ULASIM.resources
+C:\Users\casper\Desktop\Nesne\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.kayitsayfasi.resources
+C:\Users\casper\Desktop\Nesne\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Restoran.resources
+C:\Users\casper\Desktop\Nesne\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Tur.resources
+C:\Users\casper\Desktop\Nesne\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Odeme.resources
+C:\Users\casper\Desktop\Nesne\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Muze.resources
+C:\Users\casper\Desktop\Nesne\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Katalog.resources
+C:\Users\casper\Desktop\Nesne\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Otel.resources
+C:\Users\casper\Desktop\Nesne\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Properties.Resources.resources
+C:\Users\casper\Desktop\Nesne\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csproj.GenerateResource.cache
+C:\Users\casper\Desktop\Nesne\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csproj.CoreCompileInputs.cache
+C:\Users\casper\Desktop\Nesne\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.exe
+C:\Users\casper\Desktop\Nesne\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.pdb
+C:\Users\lenovo\Desktop\24 Aralık 19_40\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\bin\Debug\Database5.mdb
+C:\Users\lenovo\Desktop\24 Aralık 19_40\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.exe.config
+C:\Users\lenovo\Desktop\24 Aralık 19_40\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.exe
+C:\Users\lenovo\Desktop\24 Aralık 19_40\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.pdb
+C:\Users\lenovo\Desktop\24 Aralık 19_40\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\24 Aralık 19_40\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.dünya.resources
+C:\Users\lenovo\Desktop\24 Aralık 19_40\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.anasayfa.resources
+C:\Users\lenovo\Desktop\24 Aralık 19_40\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.girisYapin.resources
+C:\Users\lenovo\Desktop\24 Aralık 19_40\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.türkiye.resources
+C:\Users\lenovo\Desktop\24 Aralık 19_40\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.ULASIM.resources
+C:\Users\lenovo\Desktop\24 Aralık 19_40\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.kayitsayfasi.resources
+C:\Users\lenovo\Desktop\24 Aralık 19_40\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Restoran.resources
+C:\Users\lenovo\Desktop\24 Aralık 19_40\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Tur.resources
+C:\Users\lenovo\Desktop\24 Aralık 19_40\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Odeme.resources
+C:\Users\lenovo\Desktop\24 Aralık 19_40\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Muze.resources
+C:\Users\lenovo\Desktop\24 Aralık 19_40\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Katalog.resources
+C:\Users\lenovo\Desktop\24 Aralık 19_40\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Otel.resources
+C:\Users\lenovo\Desktop\24 Aralık 19_40\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Properties.Resources.resources
+C:\Users\lenovo\Desktop\24 Aralık 19_40\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\24 Aralık 19_40\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\24 Aralık 19_40\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.exe
+C:\Users\lenovo\Desktop\24 Aralık 19_40\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.pdb
+C:\Users\Nergis\Desktop\Yorumlu 25 Aralık 14.17\25 Aralık 14.17\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\bin\Debug\Database5.mdb
+C:\Users\Nergis\Desktop\Yorumlu 25 Aralık 14.17\25 Aralık 14.17\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.exe.config
+C:\Users\Nergis\Desktop\Yorumlu 25 Aralık 14.17\25 Aralık 14.17\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.exe
+C:\Users\Nergis\Desktop\Yorumlu 25 Aralık 14.17\25 Aralık 14.17\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.pdb
+C:\Users\Nergis\Desktop\Yorumlu 25 Aralık 14.17\25 Aralık 14.17\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csprojAssemblyReference.cache
+C:\Users\Nergis\Desktop\Yorumlu 25 Aralık 14.17\25 Aralık 14.17\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.dünya.resources
+C:\Users\Nergis\Desktop\Yorumlu 25 Aralık 14.17\25 Aralık 14.17\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.anasayfa.resources
+C:\Users\Nergis\Desktop\Yorumlu 25 Aralık 14.17\25 Aralık 14.17\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.girisYapin.resources
+C:\Users\Nergis\Desktop\Yorumlu 25 Aralık 14.17\25 Aralık 14.17\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.türkiye.resources
+C:\Users\Nergis\Desktop\Yorumlu 25 Aralık 14.17\25 Aralık 14.17\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.ULASIM.resources
+C:\Users\Nergis\Desktop\Yorumlu 25 Aralık 14.17\25 Aralık 14.17\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.kayitsayfasi.resources
+C:\Users\Nergis\Desktop\Yorumlu 25 Aralık 14.17\25 Aralık 14.17\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Restoran.resources
+C:\Users\Nergis\Desktop\Yorumlu 25 Aralık 14.17\25 Aralık 14.17\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Tur.resources
+C:\Users\Nergis\Desktop\Yorumlu 25 Aralık 14.17\25 Aralık 14.17\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Odeme.resources
+C:\Users\Nergis\Desktop\Yorumlu 25 Aralık 14.17\25 Aralık 14.17\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Muze.resources
+C:\Users\Nergis\Desktop\Yorumlu 25 Aralık 14.17\25 Aralık 14.17\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Katalog.resources
+C:\Users\Nergis\Desktop\Yorumlu 25 Aralık 14.17\25 Aralık 14.17\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Otel.resources
+C:\Users\Nergis\Desktop\Yorumlu 25 Aralık 14.17\25 Aralık 14.17\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Properties.Resources.resources
+C:\Users\Nergis\Desktop\Yorumlu 25 Aralık 14.17\25 Aralık 14.17\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csproj.GenerateResource.cache
+C:\Users\Nergis\Desktop\Yorumlu 25 Aralık 14.17\25 Aralık 14.17\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csproj.CoreCompileInputs.cache
+C:\Users\Nergis\Desktop\Yorumlu 25 Aralık 14.17\25 Aralık 14.17\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.exe
+C:\Users\Nergis\Desktop\Yorumlu 25 Aralık 14.17\25 Aralık 14.17\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.pdb
+C:\Users\Nergis\Desktop\Yorumlu 25 Aralık 14.17\25 Aralık 14.17\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.admingiris.resources
+C:\Users\Nergis\Desktop\Yorumlu 25 Aralık 14.17\25 Aralık 14.17\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.admingiris2.resources
+C:\Users\User\Desktop\Adm Yorumlu 25 Aralık 19.27\25 Aralık 14.17\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\bin\Debug\Database5.mdb
+C:\Users\User\Desktop\Adm Yorumlu 25 Aralık 19.27\25 Aralık 14.17\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.exe.config
+C:\Users\User\Desktop\Adm Yorumlu 25 Aralık 19.27\25 Aralık 14.17\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.exe
+C:\Users\User\Desktop\Adm Yorumlu 25 Aralık 19.27\25 Aralık 14.17\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.pdb
+C:\Users\User\Desktop\Adm Yorumlu 25 Aralık 19.27\25 Aralık 14.17\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Adm Yorumlu 25 Aralık 19.27\25 Aralık 14.17\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.admingiris.resources
+C:\Users\User\Desktop\Adm Yorumlu 25 Aralık 19.27\25 Aralık 14.17\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.admingiris2.resources
+C:\Users\User\Desktop\Adm Yorumlu 25 Aralık 19.27\25 Aralık 14.17\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.dünya.resources
+C:\Users\User\Desktop\Adm Yorumlu 25 Aralık 19.27\25 Aralık 14.17\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.anasayfa.resources
+C:\Users\User\Desktop\Adm Yorumlu 25 Aralık 19.27\25 Aralık 14.17\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.girisYapin.resources
+C:\Users\User\Desktop\Adm Yorumlu 25 Aralık 19.27\25 Aralık 14.17\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.türkiye.resources
+C:\Users\User\Desktop\Adm Yorumlu 25 Aralık 19.27\25 Aralık 14.17\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.ULASIM.resources
+C:\Users\User\Desktop\Adm Yorumlu 25 Aralık 19.27\25 Aralık 14.17\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.kayitsayfasi.resources
+C:\Users\User\Desktop\Adm Yorumlu 25 Aralık 19.27\25 Aralık 14.17\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Restoran.resources
+C:\Users\User\Desktop\Adm Yorumlu 25 Aralık 19.27\25 Aralık 14.17\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Tur.resources
+C:\Users\User\Desktop\Adm Yorumlu 25 Aralık 19.27\25 Aralık 14.17\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Odeme.resources
+C:\Users\User\Desktop\Adm Yorumlu 25 Aralık 19.27\25 Aralık 14.17\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Muze.resources
+C:\Users\User\Desktop\Adm Yorumlu 25 Aralık 19.27\25 Aralık 14.17\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Katalog.resources
+C:\Users\User\Desktop\Adm Yorumlu 25 Aralık 19.27\25 Aralık 14.17\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Otel.resources
+C:\Users\User\Desktop\Adm Yorumlu 25 Aralık 19.27\25 Aralık 14.17\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Properties.Resources.resources
+C:\Users\User\Desktop\Adm Yorumlu 25 Aralık 19.27\25 Aralık 14.17\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Adm Yorumlu 25 Aralık 19.27\25 Aralık 14.17\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Adm Yorumlu 25 Aralık 19.27\25 Aralık 14.17\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.exe
+C:\Users\User\Desktop\Adm Yorumlu 25 Aralık 19.27\25 Aralık 14.17\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.pdb
+C:\Users\User\Desktop\Adm Yorumlu 26 Aralık\25 Aralık 14.17\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\bin\Debug\Database5.mdb
+C:\Users\User\Desktop\Adm Yorumlu 26 Aralık\25 Aralık 14.17\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.exe.config
+C:\Users\User\Desktop\Adm Yorumlu 26 Aralık\25 Aralık 14.17\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.exe
+C:\Users\User\Desktop\Adm Yorumlu 26 Aralık\25 Aralık 14.17\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.pdb
+C:\Users\User\Desktop\Adm Yorumlu 26 Aralık\25 Aralık 14.17\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Adm Yorumlu 26 Aralık\25 Aralık 14.17\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.admingiris.resources
+C:\Users\User\Desktop\Adm Yorumlu 26 Aralık\25 Aralık 14.17\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.admingiris2.resources
+C:\Users\User\Desktop\Adm Yorumlu 26 Aralık\25 Aralık 14.17\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.dünya.resources
+C:\Users\User\Desktop\Adm Yorumlu 26 Aralık\25 Aralık 14.17\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.anasayfa.resources
+C:\Users\User\Desktop\Adm Yorumlu 26 Aralık\25 Aralık 14.17\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.girisYapin.resources
+C:\Users\User\Desktop\Adm Yorumlu 26 Aralık\25 Aralık 14.17\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.türkiye.resources
+C:\Users\User\Desktop\Adm Yorumlu 26 Aralık\25 Aralık 14.17\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.ULASIM.resources
+C:\Users\User\Desktop\Adm Yorumlu 26 Aralık\25 Aralık 14.17\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.kayitsayfasi.resources
+C:\Users\User\Desktop\Adm Yorumlu 26 Aralık\25 Aralık 14.17\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Restoran.resources
+C:\Users\User\Desktop\Adm Yorumlu 26 Aralık\25 Aralık 14.17\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Tur.resources
+C:\Users\User\Desktop\Adm Yorumlu 26 Aralık\25 Aralık 14.17\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Odeme.resources
+C:\Users\User\Desktop\Adm Yorumlu 26 Aralık\25 Aralık 14.17\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Muze.resources
+C:\Users\User\Desktop\Adm Yorumlu 26 Aralık\25 Aralık 14.17\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Katalog.resources
+C:\Users\User\Desktop\Adm Yorumlu 26 Aralık\25 Aralık 14.17\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Otel.resources
+C:\Users\User\Desktop\Adm Yorumlu 26 Aralık\25 Aralık 14.17\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Properties.Resources.resources
+C:\Users\User\Desktop\Adm Yorumlu 26 Aralık\25 Aralık 14.17\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Adm Yorumlu 26 Aralık\25 Aralık 14.17\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Adm Yorumlu 26 Aralık\25 Aralık 14.17\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.exe
+C:\Users\User\Desktop\Adm Yorumlu 26 Aralık\25 Aralık 14.17\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.pdb
+C:\Users\User\Desktop\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\bin\Debug\Database5.mdb
+C:\Users\User\Desktop\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.exe.config
+C:\Users\User\Desktop\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.exe
+C:\Users\User\Desktop\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.pdb
+C:\Users\User\Desktop\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csprojAssemblyReference.cache
+C:\Users\User\Desktop\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.admingiris.resources
+C:\Users\User\Desktop\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.admingiris2.resources
+C:\Users\User\Desktop\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.dünya.resources
+C:\Users\User\Desktop\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.anasayfa.resources
+C:\Users\User\Desktop\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.girisYapin.resources
+C:\Users\User\Desktop\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.türkiye.resources
+C:\Users\User\Desktop\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.ULASIM.resources
+C:\Users\User\Desktop\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.kayitsayfasi.resources
+C:\Users\User\Desktop\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Restoran.resources
+C:\Users\User\Desktop\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Tur.resources
+C:\Users\User\Desktop\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Odeme.resources
+C:\Users\User\Desktop\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Muze.resources
+C:\Users\User\Desktop\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Katalog.resources
+C:\Users\User\Desktop\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Otel.resources
+C:\Users\User\Desktop\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Properties.Resources.resources
+C:\Users\User\Desktop\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csproj.GenerateResource.cache
+C:\Users\User\Desktop\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.exe
+C:\Users\User\Desktop\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.pdb
+C:\Users\User\Desktop\Admn 26 Aralık 21.30\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\bin\Debug\Database5.mdb
+C:\Users\User\Desktop\Admn 26 Aralık 21.30\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.exe.config
+C:\Users\User\Desktop\Admn 26 Aralık 21.30\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.exe
+C:\Users\User\Desktop\Admn 26 Aralık 21.30\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.pdb
+C:\Users\User\Desktop\Admn 26 Aralık 21.30\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Admn 26 Aralık 21.30\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.admingiris.resources
+C:\Users\User\Desktop\Admn 26 Aralık 21.30\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.admingiris2.resources
+C:\Users\User\Desktop\Admn 26 Aralık 21.30\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.dünya.resources
+C:\Users\User\Desktop\Admn 26 Aralık 21.30\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.anasayfa.resources
+C:\Users\User\Desktop\Admn 26 Aralık 21.30\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.girisYapin.resources
+C:\Users\User\Desktop\Admn 26 Aralık 21.30\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.türkiye.resources
+C:\Users\User\Desktop\Admn 26 Aralık 21.30\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.ULASIM.resources
+C:\Users\User\Desktop\Admn 26 Aralık 21.30\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.kayitsayfasi.resources
+C:\Users\User\Desktop\Admn 26 Aralık 21.30\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Restoran.resources
+C:\Users\User\Desktop\Admn 26 Aralık 21.30\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Tur.resources
+C:\Users\User\Desktop\Admn 26 Aralık 21.30\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Odeme.resources
+C:\Users\User\Desktop\Admn 26 Aralık 21.30\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Muze.resources
+C:\Users\User\Desktop\Admn 26 Aralık 21.30\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Katalog.resources
+C:\Users\User\Desktop\Admn 26 Aralık 21.30\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Otel.resources
+C:\Users\User\Desktop\Admn 26 Aralık 21.30\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Properties.Resources.resources
+C:\Users\User\Desktop\Admn 26 Aralık 21.30\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Admn 26 Aralık 21.30\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Admn 26 Aralık 21.30\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.exe
+C:\Users\User\Desktop\Admn 26 Aralık 21.30\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.pdb
+C:\Users\semiha\Desktop\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csprojAssemblyReference.cache
+C:\Users\semiha\Desktop\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.exe
+C:\Users\semiha\Desktop\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.pdb
+C:\Users\lenovo\Desktop\26 Aralık Son\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\bin\Debug\Database5.mdb
+C:\Users\lenovo\Desktop\26 Aralık Son\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.exe.config
+C:\Users\lenovo\Desktop\26 Aralık Son\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.exe
+C:\Users\lenovo\Desktop\26 Aralık Son\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.pdb
+C:\Users\lenovo\Desktop\26 Aralık Son\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\26 Aralık Son\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.admingiris.resources
+C:\Users\lenovo\Desktop\26 Aralık Son\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.admingiris2.resources
+C:\Users\lenovo\Desktop\26 Aralık Son\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.dünya.resources
+C:\Users\lenovo\Desktop\26 Aralık Son\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.anasayfa.resources
+C:\Users\lenovo\Desktop\26 Aralık Son\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.girisYapin.resources
+C:\Users\lenovo\Desktop\26 Aralık Son\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.türkiye.resources
+C:\Users\lenovo\Desktop\26 Aralık Son\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.ULASIM.resources
+C:\Users\lenovo\Desktop\26 Aralık Son\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.kayitsayfasi.resources
+C:\Users\lenovo\Desktop\26 Aralık Son\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Restoran.resources
+C:\Users\lenovo\Desktop\26 Aralık Son\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Tur.resources
+C:\Users\lenovo\Desktop\26 Aralık Son\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Odeme.resources
+C:\Users\lenovo\Desktop\26 Aralık Son\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Muze.resources
+C:\Users\lenovo\Desktop\26 Aralık Son\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Katalog.resources
+C:\Users\lenovo\Desktop\26 Aralık Son\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Otel.resources
+C:\Users\lenovo\Desktop\26 Aralık Son\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Properties.Resources.resources
+C:\Users\lenovo\Desktop\26 Aralık Son\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\26 Aralık Son\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\26 Aralık Son\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.exe
+C:\Users\lenovo\Desktop\26 Aralık Son\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.pdb
+C:\Users\lenovo\Desktop\27 Aralık 14.39\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\bin\Debug\Database5.mdb
+C:\Users\lenovo\Desktop\27 Aralık 14.39\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.exe.config
+C:\Users\lenovo\Desktop\27 Aralık 14.39\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.exe
+C:\Users\lenovo\Desktop\27 Aralık 14.39\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.pdb
+C:\Users\lenovo\Desktop\27 Aralık 14.39\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\27 Aralık 14.39\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.admingiris.resources
+C:\Users\lenovo\Desktop\27 Aralık 14.39\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.admingiris2.resources
+C:\Users\lenovo\Desktop\27 Aralık 14.39\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.dünya.resources
+C:\Users\lenovo\Desktop\27 Aralık 14.39\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.anasayfa.resources
+C:\Users\lenovo\Desktop\27 Aralık 14.39\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.girisYapin.resources
+C:\Users\lenovo\Desktop\27 Aralık 14.39\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.türkiye.resources
+C:\Users\lenovo\Desktop\27 Aralık 14.39\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.ULASIM.resources
+C:\Users\lenovo\Desktop\27 Aralık 14.39\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.kayitsayfasi.resources
+C:\Users\lenovo\Desktop\27 Aralık 14.39\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Restoran.resources
+C:\Users\lenovo\Desktop\27 Aralık 14.39\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Tur.resources
+C:\Users\lenovo\Desktop\27 Aralık 14.39\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Odeme.resources
+C:\Users\lenovo\Desktop\27 Aralık 14.39\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Muze.resources
+C:\Users\lenovo\Desktop\27 Aralık 14.39\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Katalog.resources
+C:\Users\lenovo\Desktop\27 Aralık 14.39\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Otel.resources
+C:\Users\lenovo\Desktop\27 Aralık 14.39\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Properties.Resources.resources
+C:\Users\lenovo\Desktop\27 Aralık 14.39\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\27 Aralık 14.39\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\27 Aralık 14.39\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.exe
+C:\Users\lenovo\Desktop\27 Aralık 14.39\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.pdb
+C:\Users\BEGÜM\OneDrive\Masaüstü\27 Aralık 14.39\27 Aralık 14.39\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csprojAssemblyReference.cache
+C:\Users\BEGÜM\OneDrive\Masaüstü\27 Aralık 14.39\27 Aralık 14.39\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.admingiris.resources
+C:\Users\BEGÜM\OneDrive\Masaüstü\27 Aralık 14.39\27 Aralık 14.39\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.admingiris2.resources
+C:\Users\BEGÜM\OneDrive\Masaüstü\27 Aralık 14.39\27 Aralık 14.39\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.dünya.resources
+C:\Users\BEGÜM\OneDrive\Masaüstü\27 Aralık 14.39\27 Aralık 14.39\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.anasayfa.resources
+C:\Users\BEGÜM\OneDrive\Masaüstü\27 Aralık 14.39\27 Aralık 14.39\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.girisYapin.resources
+C:\Users\BEGÜM\OneDrive\Masaüstü\27 Aralık 14.39\27 Aralık 14.39\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.türkiye.resources
+C:\Users\BEGÜM\OneDrive\Masaüstü\27 Aralık 14.39\27 Aralık 14.39\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.ULASIM.resources
+C:\Users\BEGÜM\OneDrive\Masaüstü\27 Aralık 14.39\27 Aralık 14.39\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.kayitsayfasi.resources
+C:\Users\BEGÜM\OneDrive\Masaüstü\27 Aralık 14.39\27 Aralık 14.39\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Restoran.resources
+C:\Users\BEGÜM\OneDrive\Masaüstü\27 Aralık 14.39\27 Aralık 14.39\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Tur.resources
+C:\Users\BEGÜM\OneDrive\Masaüstü\27 Aralık 14.39\27 Aralık 14.39\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Odeme.resources
+C:\Users\BEGÜM\OneDrive\Masaüstü\27 Aralık 14.39\27 Aralık 14.39\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Muze.resources
+C:\Users\BEGÜM\OneDrive\Masaüstü\27 Aralık 14.39\27 Aralık 14.39\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Katalog.resources
+C:\Users\BEGÜM\OneDrive\Masaüstü\27 Aralık 14.39\27 Aralık 14.39\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Otel.resources
+C:\Users\BEGÜM\OneDrive\Masaüstü\27 Aralık 14.39\27 Aralık 14.39\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Properties.Resources.resources
+C:\Users\BEGÜM\OneDrive\Masaüstü\27 Aralık 14.39\27 Aralık 14.39\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csproj.GenerateResource.cache
+C:\Users\BEGÜM\OneDrive\Masaüstü\27 Aralık 14.39\27 Aralık 14.39\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csproj.CoreCompileInputs.cache
+C:\Users\BEGÜM\OneDrive\Masaüstü\27 Aralık 14.39\27 Aralık 14.39\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.exe
+C:\Users\BEGÜM\OneDrive\Masaüstü\27 Aralık 14.39\27 Aralık 14.39\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.pdb
+C:\Users\BEGÜM\OneDrive\Masaüstü\27 Aralık 14.39\27 Aralık 14.39\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\bin\Debug\Database5.mdb
+C:\Users\BEGÜM\OneDrive\Masaüstü\27 Aralık 14.39\27 Aralık 14.39\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.exe.config
+C:\Users\BEGÜM\OneDrive\Masaüstü\27 Aralık 14.39\27 Aralık 14.39\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.exe
+C:\Users\BEGÜM\OneDrive\Masaüstü\27 Aralık 14.39\27 Aralık 14.39\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.pdb
+C:\Users\casper\Desktop\27 Aralık Son\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\bin\Debug\Database5.mdb
+C:\Users\casper\Desktop\27 Aralık Son\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.exe.config
+C:\Users\casper\Desktop\27 Aralık Son\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.exe
+C:\Users\casper\Desktop\27 Aralık Son\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.pdb
+C:\Users\casper\Desktop\27 Aralık Son\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csprojAssemblyReference.cache
+C:\Users\casper\Desktop\27 Aralık Son\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.admingiris.resources
+C:\Users\casper\Desktop\27 Aralık Son\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.admingiris2.resources
+C:\Users\casper\Desktop\27 Aralık Son\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.dünya.resources
+C:\Users\casper\Desktop\27 Aralık Son\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.anasayfa.resources
+C:\Users\casper\Desktop\27 Aralık Son\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.girisYapin.resources
+C:\Users\casper\Desktop\27 Aralık Son\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.türkiye.resources
+C:\Users\casper\Desktop\27 Aralık Son\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.ULASIM.resources
+C:\Users\casper\Desktop\27 Aralık Son\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.kayitsayfasi.resources
+C:\Users\casper\Desktop\27 Aralık Son\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Restoran.resources
+C:\Users\casper\Desktop\27 Aralık Son\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Tur.resources
+C:\Users\casper\Desktop\27 Aralık Son\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Odeme.resources
+C:\Users\casper\Desktop\27 Aralık Son\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Muze.resources
+C:\Users\casper\Desktop\27 Aralık Son\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Katalog.resources
+C:\Users\casper\Desktop\27 Aralık Son\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Otel.resources
+C:\Users\casper\Desktop\27 Aralık Son\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Properties.Resources.resources
+C:\Users\casper\Desktop\27 Aralık Son\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csproj.GenerateResource.cache
+C:\Users\casper\Desktop\27 Aralık Son\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csproj.CoreCompileInputs.cache
+C:\Users\casper\Desktop\27 Aralık Son\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.exe
+C:\Users\casper\Desktop\27 Aralık Son\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.pdb
+C:\Users\User\Desktop\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\bin\Debug\Database5.mdb
+C:\Users\User\Desktop\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.exe.config
+C:\Users\User\Desktop\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.exe
+C:\Users\User\Desktop\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.pdb
+C:\Users\User\Desktop\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csprojAssemblyReference.cache
+C:\Users\User\Desktop\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.admingiris.resources
+C:\Users\User\Desktop\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.admingiris2.resources
+C:\Users\User\Desktop\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.dünya.resources
+C:\Users\User\Desktop\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.anasayfa.resources
+C:\Users\User\Desktop\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.girisYapin.resources
+C:\Users\User\Desktop\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.türkiye.resources
+C:\Users\User\Desktop\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.ULASIM.resources
+C:\Users\User\Desktop\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.kayitsayfasi.resources
+C:\Users\User\Desktop\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Restoran.resources
+C:\Users\User\Desktop\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Tur.resources
+C:\Users\User\Desktop\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Odeme.resources
+C:\Users\User\Desktop\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Muze.resources
+C:\Users\User\Desktop\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Katalog.resources
+C:\Users\User\Desktop\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Otel.resources
+C:\Users\User\Desktop\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Properties.Resources.resources
+C:\Users\User\Desktop\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csproj.GenerateResource.cache
+C:\Users\User\Desktop\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.exe
+C:\Users\User\Desktop\26 Aralık Son\24 Aralık 19_40-20201226T182911Z-001\24 Aralık 19_40\24 Aralık\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.pdb
+C:\Users\User\Desktop\29 Aralık Son\4.Sayfa\4.Sayfa\bin\Debug\Database5.mdb
+C:\Users\User\Desktop\29 Aralık Son\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.exe.config
+C:\Users\User\Desktop\29 Aralık Son\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.exe
+C:\Users\User\Desktop\29 Aralık Son\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.pdb
+C:\Users\User\Desktop\29 Aralık Son\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csprojAssemblyReference.cache
+C:\Users\User\Desktop\29 Aralık Son\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.admingiris.resources
+C:\Users\User\Desktop\29 Aralık Son\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.admingiris2.resources
+C:\Users\User\Desktop\29 Aralık Son\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.dünya.resources
+C:\Users\User\Desktop\29 Aralık Son\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.anasayfa.resources
+C:\Users\User\Desktop\29 Aralık Son\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.girisYapin.resources
+C:\Users\User\Desktop\29 Aralık Son\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.türkiye.resources
+C:\Users\User\Desktop\29 Aralık Son\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.ULASIM.resources
+C:\Users\User\Desktop\29 Aralık Son\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.kayitsayfasi.resources
+C:\Users\User\Desktop\29 Aralık Son\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Restoran.resources
+C:\Users\User\Desktop\29 Aralık Son\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Tur.resources
+C:\Users\User\Desktop\29 Aralık Son\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Odeme.resources
+C:\Users\User\Desktop\29 Aralık Son\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Muze.resources
+C:\Users\User\Desktop\29 Aralık Son\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Katalog.resources
+C:\Users\User\Desktop\29 Aralık Son\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Otel.resources
+C:\Users\User\Desktop\29 Aralık Son\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Properties.Resources.resources
+C:\Users\User\Desktop\29 Aralık Son\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csproj.GenerateResource.cache
+C:\Users\User\Desktop\29 Aralık Son\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\29 Aralık Son\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.exe
+C:\Users\User\Desktop\29 Aralık Son\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.pdb
+C:\Users\BEGÜM\OneDrive\Masaüstü\29 Aralık Son - Kopya\4.Sayfa\4.Sayfa\bin\Debug\Database5.mdb
+C:\Users\BEGÜM\OneDrive\Masaüstü\29 Aralık Son - Kopya\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.exe.config
+C:\Users\BEGÜM\OneDrive\Masaüstü\29 Aralık Son - Kopya\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.exe
+C:\Users\BEGÜM\OneDrive\Masaüstü\29 Aralık Son - Kopya\4.Sayfa\4.Sayfa\bin\Debug\4.Sayfa.pdb
+C:\Users\BEGÜM\OneDrive\Masaüstü\29 Aralık Son - Kopya\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csprojAssemblyReference.cache
+C:\Users\BEGÜM\OneDrive\Masaüstü\29 Aralık Son - Kopya\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.admingiris.resources
+C:\Users\BEGÜM\OneDrive\Masaüstü\29 Aralık Son - Kopya\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.admingiris2.resources
+C:\Users\BEGÜM\OneDrive\Masaüstü\29 Aralık Son - Kopya\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.dünya.resources
+C:\Users\BEGÜM\OneDrive\Masaüstü\29 Aralık Son - Kopya\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.anasayfa.resources
+C:\Users\BEGÜM\OneDrive\Masaüstü\29 Aralık Son - Kopya\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.girisYapin.resources
+C:\Users\BEGÜM\OneDrive\Masaüstü\29 Aralık Son - Kopya\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.türkiye.resources
+C:\Users\BEGÜM\OneDrive\Masaüstü\29 Aralık Son - Kopya\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.ULASIM.resources
+C:\Users\BEGÜM\OneDrive\Masaüstü\29 Aralık Son - Kopya\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.kayitsayfasi.resources
+C:\Users\BEGÜM\OneDrive\Masaüstü\29 Aralık Son - Kopya\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Restoran.resources
+C:\Users\BEGÜM\OneDrive\Masaüstü\29 Aralık Son - Kopya\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Tur.resources
+C:\Users\BEGÜM\OneDrive\Masaüstü\29 Aralık Son - Kopya\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Odeme.resources
+C:\Users\BEGÜM\OneDrive\Masaüstü\29 Aralık Son - Kopya\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Muze.resources
+C:\Users\BEGÜM\OneDrive\Masaüstü\29 Aralık Son - Kopya\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Katalog.resources
+C:\Users\BEGÜM\OneDrive\Masaüstü\29 Aralık Son - Kopya\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Otel.resources
+C:\Users\BEGÜM\OneDrive\Masaüstü\29 Aralık Son - Kopya\4.Sayfa\4.Sayfa\obj\Debug\_4.Sayfa.Properties.Resources.resources
+C:\Users\BEGÜM\OneDrive\Masaüstü\29 Aralık Son - Kopya\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csproj.GenerateResource.cache
+C:\Users\BEGÜM\OneDrive\Masaüstü\29 Aralık Son - Kopya\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.csproj.CoreCompileInputs.cache
+C:\Users\BEGÜM\OneDrive\Masaüstü\29 Aralık Son - Kopya\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.exe
+C:\Users\BEGÜM\OneDrive\Masaüstü\29 Aralık Son - Kopya\4.Sayfa\4.Sayfa\obj\Debug\4.Sayfa.pdb

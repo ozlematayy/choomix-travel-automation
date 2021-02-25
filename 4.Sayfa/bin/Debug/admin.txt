@@ -1,0 +1,7 @@
+oz: 
+Restoran:  restoranı  kişi için  ücret ödedi.
+Müze: , AtatürkveKurtuluşSavaşıMüzesiAnıtkabir müzesi 2 kişi için 14 ücret ödedi.
+Otel: TheGreenParkOtel oteli 2 kişi için 100 ödedi.
+Tur:  turu  kişi için  ödedi.
+Ulasım: turizm  kişi için  ödedi.
+-----------------------
