@@ -49,7 +49,7 @@
 
 • Otomasyonumuzda giriş yapıp, alışverişi tamamlayabilmek için kayıt sayfası oluşturduk ve kayıt olan kişilerin bilgilerini veri tabanına kaydettik.<br>
 • Kayıt ol butonuna basıldığında yeşil renkli mesaj ekranda belirmektedir.<br>
-*Projemizde access veri tabanından yararlandık.*
+*Projemizde sadece kayıt bilgilerini tutmak için access veri tabanından yararlandık.*
 
 ## Giriş Yap Sayfası:
 ![Giriş Yap Sayfası](https://user-images.githubusercontent.com/77455910/107424773-1e3ed000-6b2f-11eb-840f-76378a382a30.png)
@@ -82,6 +82,6 @@
 *Projeyi 7 kişilik bir grupla yaptık.Grup arkadaşlarımdan birisi de [Gülsüm Yıldırım](https://github.com/GulsYildirim)'dır.* <br>
 
 >### **Not:**
->*Henüz öğrenme aşamasında olduğum için projemiz temiz bir koda sahip değil bu yüzden ilerleyen zamanlarda tekrar düzenlecektir...*
-*Proje hakkında önerilere açığız*
+>*Henüz öğrenme aşamasında olduğum için projemiz temiz bir koda sahip değil bu yüzden ilerleyen zamanlarda tekrar düzenlecektir...* <br>
+*Proje hakkında önerilere açığız*<br>
 **Yıldızlarsanız çok sevinirim...**
